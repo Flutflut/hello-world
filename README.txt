@@ -4,7 +4,7 @@ Test project
 This is a simple hello world project. The purpose of this project is to set up a GitHub account and experiment with GitHub.  
 
 
-![Sample image](hello-world/sample.png)
+![Sample image](https://github.com/Flutflut/hello-world/blob/master/sample.png)
 
 
 =======
